@@ -1,30 +1,48 @@
-# 👋 Hi, I'm Subham!
+# 👋 Hi, I'm Subham Lamiichane  
 
-I'm a beginner tech enthusiast interested in cybersecurity and ethical hacking.  
-Currently learning the basics of programming and web security.
+🚀 Aspiring Cybersecurity Student | Focused on SIEM, SOAR, and Incident Response  
+
+I’m passionate about building strong foundations in cybersecurity, exploring tools like **Wazuh**, **Splunk**, **Shuffle**, and **TheHive**.  
+My journey is driven by hands-on experimentation, log analysis, and security automation.  
 
 ---
 
-## 🛠️ Tools I Use the Most
+## 📫 Contact Me  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Burp%20Suite%20Professional-orange?logo=burpsuite&logoColor=white&style=for-the-badge" alt="Burp Suite Professional" />
-  <img src="https://img.shields.io/badge/sqlmap-blue?logo=python&logoColor=white&style=for-the-badge" alt="sqlmap" />
-  <img src="https://img.shields.io/badge/XSStrike-green?logo=python&logoColor=white&style=for-the-badge" alt="XSStrike" />
+  <a href="https://https://www.linkedin.com/in/subham-lamichhane-b09b95388/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:lamichhanesubham4@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-## 🌱 What I'm Learning
-- Python & C programming basics
-- Introduction to web application security
-- Exploring open-source projects
+## 🛠️ Tools I Use the Most  
 
-## 💡 My Goals
-- Build simple tools and scripts
-- Learn and practice cybersecurity fundamentals
-- Connect with other beginners
+### 🔍 SIEM  
+<p align="left">
+  <img src="https://wazuh.com/wp-content/uploads/2021/02/wazuh_logo.svg" alt="Wazuh" width="80" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" alt="Splunk" width="80" height="40"/>
+</p>
+
+### ⚙️ SOAR  
+<p align="left">
+  <img src="https://shuffle.io/img/logo.png" alt="Shuffle" width="100" height="40"/>
+</p>
+
+### 🛡️ Incident Response  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/TheHive-Project/TheHive/master/docs/images/thehive-logo.png" alt="TheHive" width="100" height="40"/>
+</p>
 
 ---
 
-> *Open to learning and collaborating!*
+## 🌱 Current Focus  
+- Learning advanced log parsing and metadata extraction  
+- Experimenting with SIEM/SOAR integrations  
+- Building modular workflows for incident response  
